@@ -44,7 +44,7 @@ proliferation and enable flexible composition.
 
 ### 1.1 Avoid Boolean Prop Proliferation
 
-**Impact: CRITICAL (prevents unmaintainable component variants)**
+**Impact: HIGH (prevents unmaintainable component variants)**
 
 Don't add boolean props like `isThread`, `isEditing`, `isDMThread` to customize
 
